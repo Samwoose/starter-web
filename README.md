@@ -1,9 +1,20 @@
-#Starter Web Project
+# Starter Web Project
+
 This is a simple website project
-##Introduction
+
+## Introduction
+
 This is example to see introduction
-##Purpose
+
+## Purpose
+
 Purpose is to provide simple
-##Deployment
+
+## Deployment
+
 This is a simple
-##How to Contribute
+
+## How to Contribute
+
+
+### Copyright
