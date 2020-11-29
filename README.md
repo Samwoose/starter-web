@@ -16,5 +16,6 @@ This is a simple
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull Request
 
 ### Copyright
