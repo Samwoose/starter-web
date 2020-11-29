@@ -21,3 +21,5 @@ This is a simple
 Please fork this repository and then issue Pull Request
 
 ### Copyright
+
+All rights reserved
